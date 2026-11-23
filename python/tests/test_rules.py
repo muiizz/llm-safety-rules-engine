@@ -31,3 +31,21 @@ def test_phrase_must_be_contiguous_tokens() -> None:
 def test_phrase_must_match_whole_tokens() -> None:
     assert classify("seizures").level is Level.ROUTINE
     assert classify("a seizure").level is Level.URGENT
+
+
+@pytest.mark.parametrize(
+    "text",
+    [
+        "seenay mai drd hai",
+        "SALAM, SAANS NAHI AA RAAAHI",
+        "woh bahosh ho gaye",
+        "mirgi ka daurah pada hai",
+        "ضروري: سینے میں د\u200cرد ہے",
+        "سينه دردَ کر رها ہے",
+        "بچَے كو جھٹكے لگ رہے ہيں",
+        "I can't breathe",
+        "I CAN\u2019T breathe",
+    ],
+)
+def test_spelling_and_script_variants_are_still_urgent(text: str) -> None:
+    assert classify(text).level is Level.URGENT

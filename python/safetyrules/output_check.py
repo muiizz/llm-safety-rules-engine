@@ -2,7 +2,7 @@
 
 import re
 
-from safetyrules.normalise import normalise
+from safetyrules.normalise import plain
 
 SAFE_FALLBACK = "I cannot help with that here. Please talk to your care team."
 
@@ -15,7 +15,7 @@ _UNSAFE = (
 
 def check_output(text: str) -> str:
     """Return the text if it is safe, or a fixed fallback if it is not."""
-    folded = normalise(text)
+    folded = plain(text)
     if any(pattern.search(folded) for pattern in _UNSAFE):
         return SAFE_FALLBACK
     return text
