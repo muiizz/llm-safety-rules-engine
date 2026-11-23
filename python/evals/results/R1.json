@@ -1,0 +1,191 @@
+{
+  "dev": {
+    "all": {
+      "confusion": {
+        "fn": 40,
+        "fp": 8,
+        "tn": 73,
+        "tp": 50
+      },
+      "false_urgent_on_hard_negatives": "8/27",
+      "false_urgent_rate": 0.0988,
+      "missed_ids": [
+        "u-chest-en-2-v1",
+        "u-chest-ru-0-v1",
+        "u-chest-ru-0-v2",
+        "u-chest-ru-2-v1",
+        "u-chest-ur-0-v1",
+        "u-chest-ur-0-v2",
+        "u-chest-ur-2-v2",
+        "u-breath-en-2-v1",
+        "u-breath-ru-0-v1",
+        "u-breath-ru-0-v2",
+        "u-breath-ru-2-v1",
+        "u-breath-ru-2-v2",
+        "u-breath-ur-0-v1",
+        "u-breath-ur-0-v2",
+        "u-breath-ur-2-v1",
+        "u-breath-ur-2-v2",
+        "u-faint-en-0-v2",
+        "u-faint-ru-0-v1",
+        "u-faint-ru-0-v2",
+        "u-faint-ur-0-v1",
+        "u-faint-ur-0-v2",
+        "u-faint-ur-2-v1",
+        "u-faint-ur-2-v2",
+        "u-seizure-en-2-v0",
+        "u-seizure-en-2-v1",
+        "u-seizure-en-2-v2",
+        "u-seizure-ru-0-v1",
+        "u-seizure-ur-0-v1",
+        "u-seizure-ur-0-v2",
+        "u-seizure-ur-2-v1",
+        "u-seizure-ur-2-v2",
+        "u-blood-en-0-v2",
+        "u-blood-ru-0-v1",
+        "u-blood-ru-2-v0",
+        "u-blood-ru-2-v1",
+        "u-blood-ru-2-v2",
+        "u-blood-ur-0-v1",
+        "u-blood-ur-2-v0",
+        "u-blood-ur-2-v1",
+        "u-blood-ur-2-v2"
+      ],
+      "missed_urgent": 40,
+      "urgent_recall": 0.5556
+    },
+    "en": {
+      "confusion": {
+        "fn": 7,
+        "fp": 6,
+        "tn": 21,
+        "tp": 23
+      },
+      "false_urgent_on_hard_negatives": "6/9",
+      "false_urgent_rate": 0.2222,
+      "missed_ids": [
+        "u-chest-en-2-v1",
+        "u-breath-en-2-v1",
+        "u-faint-en-0-v2",
+        "u-seizure-en-2-v0",
+        "u-seizure-en-2-v1",
+        "u-seizure-en-2-v2",
+        "u-blood-en-0-v2"
+      ],
+      "missed_urgent": 7,
+      "urgent_recall": 0.7667
+    },
+    "ru": {
+      "confusion": {
+        "fn": 14,
+        "fp": 1,
+        "tn": 26,
+        "tp": 16
+      },
+      "false_urgent_on_hard_negatives": "1/9",
+      "false_urgent_rate": 0.037,
+      "missed_ids": [
+        "u-chest-ru-0-v1",
+        "u-chest-ru-0-v2",
+        "u-chest-ru-2-v1",
+        "u-breath-ru-0-v1",
+        "u-breath-ru-0-v2",
+        "u-breath-ru-2-v1",
+        "u-breath-ru-2-v2",
+        "u-faint-ru-0-v1",
+        "u-faint-ru-0-v2",
+        "u-seizure-ru-0-v1",
+        "u-blood-ru-0-v1",
+        "u-blood-ru-2-v0",
+        "u-blood-ru-2-v1",
+        "u-blood-ru-2-v2"
+      ],
+      "missed_urgent": 14,
+      "urgent_recall": 0.5333
+    },
+    "ur": {
+      "confusion": {
+        "fn": 19,
+        "fp": 1,
+        "tn": 26,
+        "tp": 11
+      },
+      "false_urgent_on_hard_negatives": "1/9",
+      "false_urgent_rate": 0.037,
+      "missed_ids": [
+        "u-chest-ur-0-v1",
+        "u-chest-ur-0-v2",
+        "u-chest-ur-2-v2",
+        "u-breath-ur-0-v1",
+        "u-breath-ur-0-v2",
+        "u-breath-ur-2-v1",
+        "u-breath-ur-2-v2",
+        "u-faint-ur-0-v1",
+        "u-faint-ur-0-v2",
+        "u-faint-ur-2-v1",
+        "u-faint-ur-2-v2",
+        "u-seizure-ur-0-v1",
+        "u-seizure-ur-0-v2",
+        "u-seizure-ur-2-v1",
+        "u-seizure-ur-2-v2",
+        "u-blood-ur-0-v1",
+        "u-blood-ur-2-v0",
+        "u-blood-ur-2-v1",
+        "u-blood-ur-2-v2"
+      ],
+      "missed_urgent": 19,
+      "urgent_recall": 0.3667
+    }
+  },
+  "seed": "portfolio-v1",
+  "test": {
+    "all": {
+      "confusion": {
+        "fn": 58,
+        "fp": 6,
+        "tn": 75,
+        "tp": 32
+      },
+      "false_urgent_on_hard_negatives": "6/27",
+      "false_urgent_rate": 0.0741,
+      "missed_urgent": 58,
+      "urgent_recall": 0.3556
+    },
+    "en": {
+      "confusion": {
+        "fn": 21,
+        "fp": 4,
+        "tn": 23,
+        "tp": 9
+      },
+      "false_urgent_on_hard_negatives": "4/9",
+      "false_urgent_rate": 0.1481,
+      "missed_urgent": 21,
+      "urgent_recall": 0.3
+    },
+    "ru": {
+      "confusion": {
+        "fn": 17,
+        "fp": 1,
+        "tn": 26,
+        "tp": 13
+      },
+      "false_urgent_on_hard_negatives": "1/9",
+      "false_urgent_rate": 0.037,
+      "missed_urgent": 17,
+      "urgent_recall": 0.4333
+    },
+    "ur": {
+      "confusion": {
+        "fn": 20,
+        "fp": 1,
+        "tn": 26,
+        "tp": 10
+      },
+      "false_urgent_on_hard_negatives": "1/9",
+      "false_urgent_rate": 0.037,
+      "missed_urgent": 20,
+      "urgent_recall": 0.3333
+    }
+  }
+}
