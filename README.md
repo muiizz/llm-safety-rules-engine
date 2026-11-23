@@ -43,7 +43,7 @@ text -> normalise -> rules -> urgent?  yes -> fixed urgent reply (model never ca
 
 ## Results
 
-Dated 23 Nov 2026. Machine: AMD Ryzen 5 7535HS, 11 GB RAM, WSL2. Python 3.12.16, mutmut 3.8.1,
+Dated 23 Nov 2026. `make check` on commit `6dd2f27`: exit 0, 22 s, 131 tests, coverage 98.70%, mutation 189 of 196. Machine: AMD Ryzen 5 7535HS, 11 GB RAM, WSL2. Python 3.12.16, mutmut 3.8.1,
 Hypothesis 6.170.17. Data: 342 synthetic messages (seed `portfolio-v1`), 171 dev and 171 test, 114 per language.
 No model. Each round was committed with its result files (commits in `docs/fix_loop.md`). Test split:
 
@@ -79,7 +79,7 @@ More in `docs/fix_loop.md`.
 - Three English urgent test messages are still missed. I have not looked at which.
 - Mutation testing covers `safetyrules/` only. Seven mutants survive and all are equivalent (ADR 0004).
 - No model is called, so nothing here tests a real model or a spend cap.
-- The gates were copied from quality-template and trimmed. This repo has no proofs of its own that each gate blocks a fault. GitHub CI has not been run on this repo yet.
+- The gates were copied from quality-template and trimmed. This repo has no proofs of its own that each gate blocks a fault. GitHub CI ran once on `6dd2f27` and passed (`check`, 23 Nov 2026).
 - One machine, one run per number. I have not measured run-to-run spread, and mutation results can vary with timing.
 
 ## What I would do next
@@ -90,6 +90,10 @@ More in `docs/fix_loop.md`.
 - Add near-miss cases aimed at each proximity rule, to measure its false alarms.
 - Put a real model behind the stub, with `MAX_USD_PER_RUN` and a monthly cap, and add the injection and leakage set from the eval-gate project.
 - Add a blind error analysis of the three remaining misses.
+
+## Repo settings
+
+`main` requires the `check` status check, an up-to-date branch, applies to admins and blocks force pushes and deletion (`docs/branch-protection.json`, same setting as quality-template, where the proof that it blocks a failing PR is recorded). I did not repeat that proof here. Private vulnerability reporting is on.
 
 ## Docs
 
