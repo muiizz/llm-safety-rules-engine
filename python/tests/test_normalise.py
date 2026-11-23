@@ -2,7 +2,7 @@ import pytest
 from hypothesis import given
 from hypothesis import strategies as st
 
-from safetyrules.normalise import normalise, plain, tokens
+from safetyrules.normalise import _step, normalise, plain, tokens
 
 
 def test_case_punctuation_and_space() -> None:
@@ -82,3 +82,7 @@ def test_roman_urdu_spellings_fold(raw: str, expected: str) -> None:
 )
 def test_urdu_script_variants_fold(raw: str, expected: str) -> None:
     assert normalise(raw) == expected
+
+
+def test_be_hosh_is_joined_by_one_step() -> None:
+    assert _step("be hosh") == "behosh"

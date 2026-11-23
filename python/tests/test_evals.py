@@ -95,3 +95,11 @@ def test_label_writes_results_file(tmp_path: Path, monkeypatch: pytest.MonkeyPat
 def test_smoke_fails_when_nothing_is_flagged(monkeypatch: pytest.MonkeyPatch) -> None:
     monkeypatch.setattr(run_eval, "predict", lambda _text: False)
     assert run_eval.main(["--smoke"]) == 1
+
+
+def test_summary_table_has_one_row_per_round() -> None:
+    from evals import summarise
+
+    lines = summarise.table().splitlines()
+    assert len(lines) == 2 + len(summarise.ROUNDS)
+    assert lines[2].startswith("| R0 |")

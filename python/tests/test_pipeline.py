@@ -41,7 +41,7 @@ def test_urgent_without_consent_is_still_urgent() -> None:
     reply = handle("chest pain", patient_code="P-1", consented=False, model=model)
     assert reply.text == URGENT_REPLY
     assert reply.level is Level.URGENT
-    assert reply.rule_ids == ("EN-CHEST",)
+    assert reply.rule_ids == ("EN-CHEST", "EN-CHEST-NEAR")
     assert reply.model_called is False
     assert model.calls == []
 
