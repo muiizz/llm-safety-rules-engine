@@ -1,0 +1,171 @@
+{"base": "u-chest-en-1", "id": "u-chest-en-1-v0", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "hello, my chest is hurting a lot since morning", "variant": 0}
+{"base": "u-chest-en-1", "id": "u-chest-en-1-v1", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "HELLO, MY CHEST IS HURTING A LOT SINCE MORNING...", "variant": 1}
+{"base": "u-chest-en-1", "id": "u-chest-en-1-v2", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "hello, my chest is huuurting a lot since morning", "variant": 2}
+{"base": "u-chest-en-3", "id": "u-chest-en-3-v0", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "he has crushing pain in the chest since morning", "variant": 0}
+{"base": "u-chest-en-3", "id": "u-chest-en-3-v1", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "he has crushing paiin in the chest since morning", "variant": 1}
+{"base": "u-chest-en-3", "id": "u-chest-en-3-v2", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "he has crushing pain in the chest since morning!!", "variant": 2}
+{"base": "u-chest-ru-1", "id": "u-chest-ru-1-v0", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "mere seene mein bohat dard ho raha hai subah se", "variant": 0}
+{"base": "u-chest-ru-1", "id": "u-chest-ru-1-v1", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "mere seena mein bohat dard ho raha hai subah se...", "variant": 1}
+{"base": "u-chest-ru-1", "id": "u-chest-ru-1-v2", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "mere seenay mein bohat dard hoo raha hai subaah se", "variant": 2}
+{"base": "u-chest-ru-3", "id": "u-chest-ru-3-v0", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "doctor sahab, chhati mein dard hai", "variant": 0}
+{"base": "u-chest-ru-3", "id": "u-chest-ru-3-v1", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "doctor sahab, chhaaati mai dard hai!!", "variant": 1}
+{"base": "u-chest-ru-3", "id": "u-chest-ru-3-v2", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "doctooor sahab, chhati mein dard hai", "variant": 2}
+{"base": "u-chest-ur-1", "id": "u-chest-ur-1-v0", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "مدد کریں، میرے سینے میں بہت درد ہو رہا ہے", "variant": 0}
+{"base": "u-chest-ur-1", "id": "u-chest-ur-1-v1", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "مدد کريں، ميرے سی‌نے ميں بهت درد ہو رها ہے!", "variant": 1}
+{"base": "u-chest-ur-1", "id": "u-chest-ur-1-v2", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "مدد كريں، ميرےَ سينے میں بهت درد ہو رها ہے", "variant": 2}
+{"base": "u-chest-ur-3", "id": "u-chest-ur-3-v0", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ڈاکٹر صاحب، چھاتی میں درد ہے صبح سے", "variant": 0}
+{"base": "u-chest-ur-3", "id": "u-chest-ur-3-v1", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ڈاَکٹر صاح‌ب، چھاتي ميں درد هے صبح سے!!", "variant": 1}
+{"base": "u-chest-ur-3", "id": "u-chest-ur-3-v2", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ڈَاكٹر ص‌احب، چھاتی ميں درد ہے صبح سے...", "variant": 2}
+{"base": "u-breath-en-1", "id": "u-breath-en-1-v0", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "hello, I am struggling to breathe since morning", "variant": 0}
+{"base": "u-breath-en-1", "id": "u-breath-en-1-v1", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "hello, I am struggling too breathe since moorning", "variant": 1}
+{"base": "u-breath-en-1", "id": "u-breath-en-1-v2", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "helloo, I aam struggling to breathe sinceee morniiing!", "variant": 2}
+{"base": "u-breath-en-3", "id": "u-breath-en-3-v0", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "urgent: breathing has become very hard since morning", "variant": 0}
+{"base": "u-breath-en-3", "id": "u-breath-en-3-v1", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "urgent: breathing has become very hard since morning", "variant": 1}
+{"base": "u-breath-en-3", "id": "u-breath-en-3-v2", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "URGENT: BREATHING HAS BECOME VERY HAARD SINCE MORNING?", "variant": 2}
+{"base": "u-breath-ru-1", "id": "u-breath-ru-1-v0", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad karein, mujhe saans lene mein takleef hai please", "variant": 0}
+{"base": "u-breath-ru-1", "id": "u-breath-ru-1-v1", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad kareein, mujhe saans lene mein takleef hai please...", "variant": 1}
+{"base": "u-breath-ru-1", "id": "u-breath-ru-1-v2", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad karein, mujhe saans lene mai takleef hai please", "variant": 2}
+{"base": "u-breath-ru-3", "id": "u-breath-ru-3-v0", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad karein, saans lena mushkil ho gaya hai abhi", "variant": 0}
+{"base": "u-breath-ru-3", "id": "u-breath-ru-3-v1", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad kaaarein, sanss leeena mushkil ho gaya hai abhi!", "variant": 1}
+{"base": "u-breath-ru-3", "id": "u-breath-ru-3-v2", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad karein, sans lena mushkil ho gaya hai abhi?", "variant": 2}
+{"base": "u-breath-ur-1", "id": "u-breath-ur-1-v0", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "مجھے سانس لینے میں تکلیف ہے ابھی", "variant": 0}
+{"base": "u-breath-ur-1", "id": "u-breath-ur-1-v1", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "مجھے ساَنس لينے می‌ں تکلَيف ہے ابھي", "variant": 1}
+{"base": "u-breath-ur-1", "id": "u-breath-ur-1-v2", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "مجھے سانس لينے میں تکلیف هے ابھي!", "variant": 2}
+{"base": "u-breath-ur-3", "id": "u-breath-ur-3-v0", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ڈاکٹر صاحب، سانس لینا مشکل ہو گیا ہے ابھی", "variant": 0}
+{"base": "u-breath-ur-3", "id": "u-breath-ur-3-v1", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ڈاکٹر صاحب، سا‌نس لينَا مشك‌ل ہو گيا هے ابھي?", "variant": 1}
+{"base": "u-breath-ur-3", "id": "u-breath-ur-3-v2", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ڈاكٹر صاحب، سانس لینا مشکل ہو گیا ہ‌ے ابھي", "variant": 2}
+{"base": "u-faint-en-1", "id": "u-faint-en-1-v0", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "doctor, my mother fainted just now", "variant": 0}
+{"base": "u-faint-en-1", "id": "u-faint-en-1-v1", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "DOCTOR, MY MOOOTHER FAINTED JUST NOW", "variant": 1}
+{"base": "u-faint-en-1", "id": "u-faint-en-1-v2", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "doctor, my mother fainted just now", "variant": 2}
+{"base": "u-faint-en-3", "id": "u-faint-en-3-v0", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "urgent: he is not waking up since morning", "variant": 0}
+{"base": "u-faint-en-3", "id": "u-faint-en-3-v1", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "URGENT: HE IS NOT WAKING UP SINCE MORNIING...", "variant": 1}
+{"base": "u-faint-en-3", "id": "u-faint-en-3-v2", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "urgent: he is not waking up since morning!!", "variant": 2}
+{"base": "u-faint-ru-1", "id": "u-faint-ru-1-v0", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "zaroori: mein behosh ho gaya tha subah se", "variant": 0}
+{"base": "u-faint-ru-1", "id": "u-faint-ru-1-v1", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "zaroorii: mein behosh ho gayaaa tha subah se!", "variant": 1}
+{"base": "u-faint-ru-1", "id": "u-faint-ru-1-v2", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "ZAROOOORI: MEIN BAHOSH HO GAYA THA SUUUBAH SE", "variant": 2}
+{"base": "u-faint-ru-3", "id": "u-faint-ru-3-v0", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad karein, bilkul hosh nahi hai abhi", "variant": 0}
+{"base": "u-faint-ru-3", "id": "u-faint-ru-3-v1", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad karein, bilkul hosh nahin hai abhi!", "variant": 1}
+{"base": "u-faint-ru-3", "id": "u-faint-ru-3-v2", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad karein, bilkul hosh nahi hai abhi?", "variant": 2}
+{"base": "u-faint-ur-1", "id": "u-faint-ur-1-v0", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ضروری: میں بے ہوش ہو گیا تھا", "variant": 0}
+{"base": "u-faint-ur-1", "id": "u-faint-ur-1-v1", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ضروری: میَں ب‌ے هوش هو گیا تھا?", "variant": 1}
+{"base": "u-faint-ur-1", "id": "u-faint-ur-1-v2", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ضروري: میں بے ہوش هو گيا تھا‌!", "variant": 2}
+{"base": "u-faint-ur-3", "id": "u-faint-ur-3-v0", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "بالکل ہوش نہیں ہے صبح سے", "variant": 0}
+{"base": "u-faint-ur-3", "id": "u-faint-ur-3-v1", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "بالکل ہوش نهیں هے صبح سے", "variant": 1}
+{"base": "u-faint-ur-3", "id": "u-faint-ur-3-v2", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "بالكل ہوش نَہیں ہے صبح سے", "variant": 2}
+{"base": "u-seizure-en-1", "id": "u-seizure-en-1-v0", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "hello, she had a fit and is shaking please", "variant": 0}
+{"base": "u-seizure-en-1", "id": "u-seizure-en-1-v1", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "hello, she haad a fit and is shaking please!", "variant": 1}
+{"base": "u-seizure-en-1", "id": "u-seizure-en-1-v2", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "HELLO, SHE HAD A FIT AND IS SHAAAKING PLEASE", "variant": 2}
+{"base": "u-seizure-en-3", "id": "u-seizure-en-3-v0", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "urgent: I think I am having a seizure right now", "variant": 0}
+{"base": "u-seizure-en-3", "id": "u-seizure-en-3-v1", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "urgent: I think I am having a seizure right now", "variant": 1}
+{"base": "u-seizure-en-3", "id": "u-seizure-en-3-v2", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "urgent: I think I am having a seizure right now!", "variant": 2}
+{"base": "u-seizure-ru-1", "id": "u-seizure-ru-1-v0", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad karein, usay daura pad raha hai subah se", "variant": 0}
+{"base": "u-seizure-ru-1", "id": "u-seizure-ru-1-v1", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad karein, uusay daura pad raha hai subah se", "variant": 1}
+{"base": "u-seizure-ru-1", "id": "u-seizure-ru-1-v2", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "madad karein, usay dora pad raaaha hai subah se", "variant": 2}
+{"base": "u-seizure-ru-3", "id": "u-seizure-ru-3-v0", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "zaroori: daura pad gaya subah se", "variant": 0}
+{"base": "u-seizure-ru-3", "id": "u-seizure-ru-3-v1", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "zaroori: daura paaad gaya subah se?", "variant": 1}
+{"base": "u-seizure-ru-3", "id": "u-seizure-ru-3-v2", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "zaroori: daura pad gaya subah se!", "variant": 2}
+{"base": "u-seizure-ur-1", "id": "u-seizure-ur-1-v0", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "سلام، اسے دورہ پڑ رہا ہے صبح سے", "variant": 0}
+{"base": "u-seizure-ur-1", "id": "u-seizure-ur-1-v1", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "سلَام، اسے دورہ پڑ رَها هے صبح سے", "variant": 1}
+{"base": "u-seizure-ur-1", "id": "u-seizure-ur-1-v2", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "سلام، اسے دورہَ پڑ رہا هے صبح سے", "variant": 2}
+{"base": "u-seizure-ur-3", "id": "u-seizure-ur-3-v0", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "مدد کریں، دورہ پڑ گیا ابھی", "variant": 0}
+{"base": "u-seizure-ur-3", "id": "u-seizure-ur-3-v1", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "م‌دد كريں، د‌ورہ پڑ گيا ابھي!", "variant": 1}
+{"base": "u-seizure-ur-3", "id": "u-seizure-ur-3-v2", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "م‌دد كريں، دوره پڑ گيا ابھي...", "variant": 2}
+{"base": "u-blood-en-1", "id": "u-blood-en-1-v0", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "please help, there is blood in my vomit since morning", "variant": 0}
+{"base": "u-blood-en-1", "id": "u-blood-en-1-v1", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "please help, thereee is blood in my vomit since morning...", "variant": 1}
+{"base": "u-blood-en-1", "id": "u-blood-en-1-v2", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "please help, there is blood in my vomit since morning...", "variant": 2}
+{"base": "u-blood-en-3", "id": "u-blood-en-3-v0", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "please help, I vomited some blood this morning", "variant": 0}
+{"base": "u-blood-en-3", "id": "u-blood-en-3-v1", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "please help, I vomited some blood this moorning!", "variant": 1}
+{"base": "u-blood-en-3", "id": "u-blood-en-3-v2", "kind": "urgent", "label": "urgent", "lang": "en", "split": "test", "text": "please help, I vomited some blood this morning!!", "variant": 2}
+{"base": "u-blood-ru-1", "id": "u-blood-ru-1-v0", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "zaroori: ulti mein khoon aa raha hai subah se", "variant": 0}
+{"base": "u-blood-ru-1", "id": "u-blood-ru-1-v1", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "zaroori: ultee main khoon aaaa rahaa hai subah seee...", "variant": 1}
+{"base": "u-blood-ru-1", "id": "u-blood-ru-1-v2", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "zaroori: ultee mein khoon aa raaaha hai subah seee...", "variant": 2}
+{"base": "u-blood-ru-3", "id": "u-blood-ru-3-v0", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "salam, khaansi mein khoon aa raha hai please", "variant": 0}
+{"base": "u-blood-ru-3", "id": "u-blood-ru-3-v1", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "salam, khaaaansi mai khoon aa raha hai pleease", "variant": 1}
+{"base": "u-blood-ru-3", "id": "u-blood-ru-3-v2", "kind": "urgent", "label": "urgent", "lang": "ru", "split": "test", "text": "salam, khaansi main khoon aa raha haaai please", "variant": 2}
+{"base": "u-blood-ur-1", "id": "u-blood-ur-1-v0", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ضروری: الٹی میں خون آ رہا ہے", "variant": 0}
+{"base": "u-blood-ur-1", "id": "u-blood-ur-1-v1", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ضروری: ال‌ٹي مَيں خون آ‌ رہا ہے", "variant": 1}
+{"base": "u-blood-ur-1", "id": "u-blood-ur-1-v2", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "ضروری: الٹی میں‌ خون آ رہا هَے", "variant": 2}
+{"base": "u-blood-ur-3", "id": "u-blood-ur-3-v0", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "کھانسی میں خون آ رہا ہے ابھی", "variant": 0}
+{"base": "u-blood-ur-3", "id": "u-blood-ur-3-v1", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "كھانسی ميَں خون آ رہا هے ابھی!!", "variant": 1}
+{"base": "u-blood-ur-3", "id": "u-blood-ur-3-v2", "kind": "urgent", "label": "urgent", "lang": "ur", "split": "test", "text": "کھانسی ميں خون آ رها هے ابھي?", "variant": 2}
+{"base": "r-en-1", "id": "r-en-1-v0", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "please help, what should I eat for dinner right now", "variant": 0}
+{"base": "r-en-1", "id": "r-en-1-v1", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "please help, whaat shooould I eeeat for dinner right now!", "variant": 1}
+{"base": "r-en-1", "id": "r-en-1-v2", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "please heeelp, what should I eat for dinner right now", "variant": 2}
+{"base": "r-en-3", "id": "r-en-3-v0", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "hello, can you remind me tomorrow right now", "variant": 0}
+{"base": "r-en-3", "id": "r-en-3-v1", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "hello, caaan you remind me tomorrow right now", "variant": 1}
+{"base": "r-en-3", "id": "r-en-3-v2", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "HELLO, CAN YOU REEMIND ME TOMORROW RIGHT NOW!!", "variant": 2}
+{"base": "r-en-5", "id": "r-en-5-v0", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "please help, thanks for the tips right now", "variant": 0}
+{"base": "r-en-5", "id": "r-en-5-v1", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "please help, thanks for the tiips right now!", "variant": 1}
+{"base": "r-en-5", "id": "r-en-5-v2", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "please help, thanks foor the tips right nooow?", "variant": 2}
+{"base": "r-en-7", "id": "r-en-7-v0", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "doctor, I had rice and lentils", "variant": 0}
+{"base": "r-en-7", "id": "r-en-7-v1", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "doctor, I had rice and lentils", "variant": 1}
+{"base": "r-en-7", "id": "r-en-7-v2", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "doctor, I had rice and lentils", "variant": 2}
+{"base": "r-en-9", "id": "r-en-9-v0", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "doctor, my feet are a bit sore from walking please", "variant": 0}
+{"base": "r-en-9", "id": "r-en-9-v1", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "doctor, my feet are a bit soree from walking please!!", "variant": 1}
+{"base": "r-en-9", "id": "r-en-9-v2", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "doctor, my feet areee aa biit sore from walkiing please", "variant": 2}
+{"base": "r-en-11", "id": "r-en-11-v0", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "urgent: good morning", "variant": 0}
+{"base": "r-en-11", "id": "r-en-11-v1", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "urgent: good morning", "variant": 1}
+{"base": "r-en-11", "id": "r-en-11-v2", "kind": "routine", "label": "routine", "lang": "en", "split": "test", "text": "urgent: good morning!", "variant": 2}
+{"base": "h-en-1", "id": "h-en-1-v0", "kind": "hard_negative", "label": "routine", "lang": "en", "split": "test", "text": "please help, no chest pain today, just tired since morning", "variant": 0}
+{"base": "h-en-1", "id": "h-en-1-v1", "kind": "hard_negative", "label": "routine", "lang": "en", "split": "test", "text": "please help, no chest pain today, just tired since mooorning!", "variant": 1}
+{"base": "h-en-1", "id": "h-en-1-v2", "kind": "hard_negative", "label": "routine", "lang": "en", "split": "test", "text": "please help, no cheeest pain today, just tired since moorning", "variant": 2}
+{"base": "h-en-3", "id": "h-en-3-v0", "kind": "hard_negative", "label": "routine", "lang": "en", "split": "test", "text": "please help, I am not short of breath", "variant": 0}
+{"base": "h-en-3", "id": "h-en-3-v1", "kind": "hard_negative", "label": "routine", "lang": "en", "split": "test", "text": "pleaase help, I am noot short of breaaath", "variant": 1}
+{"base": "h-en-3", "id": "h-en-3-v2", "kind": "hard_negative", "label": "routine", "lang": "en", "split": "test", "text": "please help, I am not short of breath!", "variant": 2}
+{"base": "h-en-5", "id": "h-en-5-v0", "kind": "hard_negative", "label": "routine", "lang": "en", "split": "test", "text": "my chest cold is better please", "variant": 0}
+{"base": "h-en-5", "id": "h-en-5-v1", "kind": "hard_negative", "label": "routine", "lang": "en", "split": "test", "text": "my chest cold is better please!!", "variant": 1}
+{"base": "h-en-5", "id": "h-en-5-v2", "kind": "hard_negative", "label": "routine", "lang": "en", "split": "test", "text": "my chest coold is better please!!", "variant": 2}
+{"base": "r-ru-1", "id": "r-ru-1-v0", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "zaroori: raat ko kya khana chahiye subah se", "variant": 0}
+{"base": "r-ru-1", "id": "r-ru-1-v1", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "zaroori: raat ko kya khanaaa chahiye subah se!!", "variant": 1}
+{"base": "r-ru-1", "id": "r-ru-1-v2", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "zaroori: raaaat ko kya khana chahiye subah se?", "variant": 2}
+{"base": "r-ru-3", "id": "r-ru-3-v0", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "kal yaad dila dena abhi", "variant": 0}
+{"base": "r-ru-3", "id": "r-ru-3-v1", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "kal yaad dila dena abhi!", "variant": 1}
+{"base": "r-ru-3", "id": "r-ru-3-v2", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "kal yaad dila dena abhi!", "variant": 2}
+{"base": "r-ru-5", "id": "r-ru-5-v0", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "zaroori: shukriya subah se", "variant": 0}
+{"base": "r-ru-5", "id": "r-ru-5-v1", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "zaroori: shukriyaa subah se?", "variant": 1}
+{"base": "r-ru-5", "id": "r-ru-5-v2", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "zaroori: shukriya subah seee?", "variant": 2}
+{"base": "r-ru-7", "id": "r-ru-7-v0", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "maine daal chawal khaye", "variant": 0}
+{"base": "r-ru-7", "id": "r-ru-7-v1", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "maine daal chawal khaye", "variant": 1}
+{"base": "r-ru-7", "id": "r-ru-7-v2", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "maine daal chawal khaye!", "variant": 2}
+{"base": "r-ru-9", "id": "r-ru-9-v0", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "salam, pairon mein halka dard hai abhi", "variant": 0}
+{"base": "r-ru-9", "id": "r-ru-9-v1", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "SALAM, PAIRON MEIN HALKA DARD HAI ABHI!!", "variant": 1}
+{"base": "r-ru-9", "id": "r-ru-9-v2", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "salam, paairon mai haalka dard hai abhi", "variant": 2}
+{"base": "r-ru-11", "id": "r-ru-11-v0", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "madad karein, subah bakhair please", "variant": 0}
+{"base": "r-ru-11", "id": "r-ru-11-v1", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "madad karein, subaaah bakhair please!", "variant": 1}
+{"base": "r-ru-11", "id": "r-ru-11-v2", "kind": "routine", "label": "routine", "lang": "ru", "split": "test", "text": "MADAD KAREIN, SUUBAH BAKHAIR PLEASE!", "variant": 2}
+{"base": "h-ru-1", "id": "h-ru-1-v0", "kind": "hard_negative", "label": "routine", "lang": "ru", "split": "test", "text": "madad karein, aaj seene mein dard nahi, bas thakan hai abhi", "variant": 0}
+{"base": "h-ru-1", "id": "h-ru-1-v1", "kind": "hard_negative", "label": "routine", "lang": "ru", "split": "test", "text": "madad karein, aaj seena main drd naaahi, bas thakan hai abhi!", "variant": 1}
+{"base": "h-ru-1", "id": "h-ru-1-v2", "kind": "hard_negative", "label": "routine", "lang": "ru", "split": "test", "text": "madad karein, aaj seene mein drd nahi, bas thakan hai abhi...", "variant": 2}
+{"base": "h-ru-3", "id": "h-ru-3-v0", "kind": "hard_negative", "label": "routine", "lang": "ru", "split": "test", "text": "salam, saans theek hai", "variant": 0}
+{"base": "h-ru-3", "id": "h-ru-3-v1", "kind": "hard_negative", "label": "routine", "lang": "ru", "split": "test", "text": "salam, sanss theek hai?", "variant": 1}
+{"base": "h-ru-3", "id": "h-ru-3-v2", "kind": "hard_negative", "label": "routine", "lang": "ru", "split": "test", "text": "salam, saans theek hai!!", "variant": 2}
+{"base": "h-ru-5", "id": "h-ru-5-v0", "kind": "hard_negative", "label": "routine", "lang": "ru", "split": "test", "text": "zaroori: seene ki jalan theek hai subah se", "variant": 0}
+{"base": "h-ru-5", "id": "h-ru-5-v1", "kind": "hard_negative", "label": "routine", "lang": "ru", "split": "test", "text": "zaroooori: sine kiii jalan theek hai subah se", "variant": 1}
+{"base": "h-ru-5", "id": "h-ru-5-v2", "kind": "hard_negative", "label": "routine", "lang": "ru", "split": "test", "text": "zaroori: seena ki jalan theeek hai subah se", "variant": 2}
+{"base": "r-ur-1", "id": "r-ur-1-v0", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ضروری: رات کو کیا کھانا چاہیے صبح سے", "variant": 0}
+{"base": "r-ur-1", "id": "r-ur-1-v1", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ضروري: رات کو كيا کھانا چاهيے صبح سے", "variant": 1}
+{"base": "r-ur-1", "id": "r-ur-1-v2", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ضروَري: رات کو كیا کھانا چاہيے صب‌ح سے", "variant": 2}
+{"base": "r-ur-3", "id": "r-ur-3-v0", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ضروری: کل یاد دلا دینا براہ کرم", "variant": 0}
+{"base": "r-ur-3", "id": "r-ur-3-v1", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ضروري: کل یاد دلا دينا براه کرم...", "variant": 1}
+{"base": "r-ur-3", "id": "r-ur-3-v2", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ضروري: کل یاد‌ دلا دينا براه کر‌م?", "variant": 2}
+{"base": "r-ur-5", "id": "r-ur-5-v0", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ضروری: شکریہ براہ کرم", "variant": 0}
+{"base": "r-ur-5", "id": "r-ur-5-v1", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ضروري: شكريه برا‌ہ كرم", "variant": 1}
+{"base": "r-ur-5", "id": "r-ur-5-v2", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ضروري: شكريہ براہ کرم!!", "variant": 2}
+{"base": "r-ur-7", "id": "r-ur-7-v0", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "سلام، میں نے دال چاول کھائے ابھی", "variant": 0}
+{"base": "r-ur-7", "id": "r-ur-7-v1", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "سلا‌م، ميں نے دالَ چاول کھ‌ائے ابھي", "variant": 1}
+{"base": "r-ur-7", "id": "r-ur-7-v2", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "سلام، میں نے دال‌ چاول كھائے ابھي?", "variant": 2}
+{"base": "r-ur-9", "id": "r-ur-9-v0", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ڈاکٹر صاحب، پاؤں میں ہلکا درد ہے صبح سے", "variant": 0}
+{"base": "r-ur-9", "id": "r-ur-9-v1", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ڈاكٹر ص‌احب، پاؤں ميں ہلکا د‌رَد هے صبح سے...", "variant": 1}
+{"base": "r-ur-9", "id": "r-ur-9-v2", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "ڈاكٹر صاحب، پاؤں میں ہلکا درد هے صبح سے...", "variant": 2}
+{"base": "r-ur-11", "id": "r-ur-11-v0", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "صبح بخیر ابھی", "variant": 0}
+{"base": "r-ur-11", "id": "r-ur-11-v1", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "صب‌ح بخير ابھی", "variant": 1}
+{"base": "r-ur-11", "id": "r-ur-11-v2", "kind": "routine", "label": "routine", "lang": "ur", "split": "test", "text": "صبح بخي‌ر ابَھيَ!!", "variant": 2}
+{"base": "h-ur-1", "id": "h-ur-1-v0", "kind": "hard_negative", "label": "routine", "lang": "ur", "split": "test", "text": "ضروری: آج سینے میں درد نہیں، بس تھکن ہے براہ کرم", "variant": 0}
+{"base": "h-ur-1", "id": "h-ur-1-v1", "kind": "hard_negative", "label": "routine", "lang": "ur", "split": "test", "text": "ضر‌وري: آج سینے ميں درد نہیں، بس تھَکن هے برا‌ہ کَرمَ...", "variant": 1}
+{"base": "h-ur-1", "id": "h-ur-1-v2", "kind": "hard_negative", "label": "routine", "lang": "ur", "split": "test", "text": "ضرَور‌ی‌: آج سينے ميں دردَ نہيں، بس تھك‌ن‌ هے برا‌ہ کرم", "variant": 2}
+{"base": "h-ur-3", "id": "h-ur-3-v0", "kind": "hard_negative", "label": "routine", "lang": "ur", "split": "test", "text": "سلام، سانس ٹھیک ہے براہ کرم", "variant": 0}
+{"base": "h-ur-3", "id": "h-ur-3-v1", "kind": "hard_negative", "label": "routine", "lang": "ur", "split": "test", "text": "سلام، سانس ٹھيك ہے براہ کر‌م...", "variant": 1}
+{"base": "h-ur-3", "id": "h-ur-3-v2", "kind": "hard_negative", "label": "routine", "lang": "ur", "split": "test", "text": "سلام،‌ سانس ٹھيك ہَے براہ كرم!", "variant": 2}
+{"base": "h-ur-5", "id": "h-ur-5-v0", "kind": "hard_negative", "label": "routine", "lang": "ur", "split": "test", "text": "سینے کی جلن ٹھیک ہے براہ کرم", "variant": 0}
+{"base": "h-ur-5", "id": "h-ur-5-v1", "kind": "hard_negative", "label": "routine", "lang": "ur", "split": "test", "text": "سين‌ے کی جلن ٹھیک ہے براه کرم", "variant": 1}
+{"base": "h-ur-5", "id": "h-ur-5-v2", "kind": "hard_negative", "label": "routine", "lang": "ur", "split": "test", "text": "سینے كي جَلن ٹھ‌يک ہے براه کرم‌...", "variant": 2}

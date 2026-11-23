@@ -27,9 +27,9 @@ target-version = "py312"
 select = ["E", "F", "W", "I", "B", "UP", "S", "C4", "SIM", "RUF"]
 
 [tool.ruff.lint.per-file-ignores]
-"tests/*" = ["S101", "RUF001"]
+"tests/*" = ["S101", "RUF001", "S311"]
 "safetyrules/*" = ["RUF001"]
-"evals/*" = ["RUF001"]
+"evals/*" = ["RUF001", "S311"]
 
 [tool.mypy]
 strict = true
@@ -42,7 +42,7 @@ addopts = "-ra"
 
 [tool.coverage.run]
 branch = true
-source = ["safetyrules"]
+source = ["safetyrules", "evals"]
 
 [tool.coverage.report]
 fail_under = 95

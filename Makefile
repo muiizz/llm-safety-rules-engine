@@ -47,7 +47,7 @@ demo:  ## Classify one message: make demo MSG="chest pain since morning"
 	$(PYD) $(UV) python -m safetyrules "$(or $(MSG),I have chest pain)"
 
 eval:  ## Build the dataset and write results. Deterministic, free, no network.
-	$(PYD) $(UV) python -m evals.run_eval
+	$(PYD) $(UV) python -m evals.run_eval --label "$(LABEL)"
 
 eval-smoke:  ## Small deterministic check that the eval still runs.
 	$(PYD) $(UV) python -m evals.run_eval --smoke
